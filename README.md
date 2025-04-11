@@ -1,6 +1,9 @@
 # 🌍 Ethiopian Recipe Explorer
 
-![Project Screenshot](./asset/home-page.png) (./asset/recipelistpage.png)
+![Project Screenshot](./asset/home-page.jpg) 
+![Project Screenshot](./asset/recipelistpage.jpg) 
+
+
 
 A bilingual (English/Amharic) recipe website showcasing traditional Ethiopian fasting and non-fasting dishes.
 
