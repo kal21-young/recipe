@@ -59,6 +59,9 @@ User Engagement
 --Partner with Ethiopian restaurants
 --Table booking directly from recipe pages
 --Special "Cook This Dish Nearby" feature
+## 🌐 Live Demo
+[View Live Demo](https://kal21-young.github.io/recipe/)  
+[![GitHub Pages](https://img.shields.io/badge/View-Live_Demo-brightgreen)](https://kal21-young.github.io/recipe/)
 ## 📜 License  
 MIT © Kalkidan Wondwosen (https://github.com/kal21-young)  
 
